@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "BlackPisces",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "discord.js": "^12.3.1",
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0"
+  }
+}

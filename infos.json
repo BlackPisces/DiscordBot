@@ -1,0 +1,77 @@
+{
+	"embedData": [
+		{
+			"id": "760162536225636402",
+			"color": "DARK_BLUE",
+			"text": {
+				"title": "Bienvenue sur le serveur Game & Dev !",
+				"desc": "Petit serveur créé par BlackPisces dans le but de faciliter la création de groupe de jeu ou de dev. Ici, vous pourrez trouver des gens qui pourrons compléter vos groupes dans différents jeux ou projet de dev. Pour faire parti des groupes qui vous intéresse, veuillez lire le message suivant.\n\u200B",
+				"fields": [
+					{
+						"key": "Règles :",
+						"value": "\t• Ne soyez pas toxic\n\nEt c'est tout en vrai, le serveur est tout récent, y'a pas vraiment besoin de règles, sauf s'il y a des abus dans le futur",
+						"inline": false
+					},
+					{
+						"key": "\u200B",
+						"value": "Une fois ce message lu, veuillez accepter avoir pris conscience des \"règles\" (lol) et de les respecter le temps que vous soyez sur le serveur.\n\u200B",
+						"inline": false
+					}
+				],
+				"footer": "Mise à jour 0.1.0 du serveur\t\t\t\t\t\tDerniers changements"
+			},
+			"reactions": [
+				{
+					"role": "Membre",
+					"emote": "✅"
+				}
+			]
+		},
+		{
+			"id": "760162544735617065",
+			"color": "DARK_BLUE",
+			"text": {
+				"title": "Choix des rôles",
+				"desc": "Vous pouvez choisir ici les rôles pour lequels vous souhaiter pouvoir être notifié lorsqu'il y a des activités qui s'organisent.",
+				"fields": [
+					{
+						"key": "\u200B",
+						"value": "Voici les rôles disponibles :\n\t• <:AmongUs:759869622895247380> pour Among Us\n\n\t• 🎶 pour osu!\n\n\t• 🕐 pour Starcraft 2",
+						"inline": true
+					},
+					{
+						"key": "\u200B",
+						"value": "\u200B\n\t• 🖥️ pour Dev\n\n\t• ✍️ pour Graphiste",
+						"inline": true
+					},
+					{
+						"key": "\u200B",
+						"value": "Plus de rôles à venir (et de meilleures icônes)...",
+						"inline": false
+					}
+				]
+			},
+			"reactions": [
+				{
+					"emote": "759869622895247380"
+				},
+				{
+					"role": "StarCraft 2",
+					"emote": "🕐"
+				},
+				{
+					"role": "osu!",
+					"emote": "🎶"
+				},
+				{
+					"role": "Dev",
+					"emote": "🖥️"
+				},
+				{
+					"role": "Graphiste",
+					"emote": "✍️"
+				}
+			]
+		}
+	]
+}
